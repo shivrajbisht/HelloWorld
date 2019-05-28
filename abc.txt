@@ -1,2 +1,4 @@
 Hello Shivraj, Welcome to Biz2Credit Inc.
 Hello DevOps by bisht.
+
+Mergeing with another way.
